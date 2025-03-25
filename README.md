@@ -109,7 +109,8 @@ Clique em "Enviar" para iniciar a indexação.
 ## 🚀 Possibilidades e Ferramentas que se Beneficiam do Azure AI Search
 O Azure AI Search pode ser integrado a diversas soluções, como:
 
-✅ Aplicações Web/Mobile – Melhore a busca em catálogos de produtos, FAQs ou documentos.
-✅ Chatbots e Assistentes Virtuais – Use indexação semântica para respostas mais precisas.
-✅ Sistemas de Recomendação – Combine com Machine Learning para sugerir conteúdo relevante.
-✅ Pesquisa Empresarial – Indexe documentos internos (PDFs, e-mails, DBs) para busca inteligente.
+-  Aplicações Web/Mobile – Melhore a busca em catálogos de produtos, FAQs ou documentos.
+-  Chatbots e Assistentes Virtuais – Use indexação semântica para respostas mais precisas.
+-  Sistemas de Recomendação – Combine com Machine Learning para sugerir conteúdo relevante.
+-  Pesquisa Empresarial – Indexe documentos internos (PDFs, e-mails, DBs) para busca inteligente.
+-  Desenvolver soluções de Inclusão para pessoas Portadoras de Necessidades Especiais
